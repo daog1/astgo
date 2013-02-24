@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<server>
+	<ippbxAddr>192.168.0.115:5038</ippbxAddr>
+	<license>5RRAWgYGQWV+k9dJewdKZw==</license>
+	<approot>astami</approot>
+	<amiuser>mark</amiuser>
+	<amipasswd>123456</amipasswd>
+	<agentAddr>127.0.0.1:3100</agentAddr>
+	<dbaddr>127.0.0.1:33307</dbaddr>
+	<dbname>vtigercrm540</dbname>
+	<dbuser>root</dbuser>
+	<dbpasswd>7654321</dbpasswd>
+	<rpcaddr>127.0.0.1:8888</rpcaddr>
+</server>
